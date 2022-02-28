@@ -1,0 +1,251 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A spirituall song of a mayds name called Mabell Anna Tatton made by a tenant of the Lord of Canturburies, in the counter in Wood-Streete, very usefull and comfortable both for a believer in particular, and the Church of Christ in generall, James 5. 13. Colos. 3. 16.</title>
+            <author>Starbuck, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93807</idno>
+            <idno type="STC">Wing S5268</idno>
+            <idno type="STC">Thomason 669.f.11[130]</idno>
+            <idno type="STC">ESTC R210805</idno>
+            <idno type="EEBO-CITATION">99869562</idno>
+            <idno type="PROQUEST">99869562</idno>
+            <idno type="VID">162783</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93807)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162783)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f11[130])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A spirituall song of a mayds name called Mabell Anna Tatton made by a tenant of the Lord of Canturburies, in the counter in Wood-Streete, very usefull and comfortable both for a believer in particular, and the Church of Christ in generall, James 5. 13. Colos. 3. 16.</title>
+                  <author>Starbuck, William.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.G.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647 [i.e., 1648].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Last stanza begins: William Starbuck these verses made.</note>
+                  <note>Verse - "Married thou art to Jesus Christ,".</note>
+                  <note>Annotation on Thomason copy: "feb: 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tatton, Mabell Anna --  Early works to 1800.</term>
+               <term>Christian poetry, English --  Early modern, 1500-1700.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:162783:1" rendition="simple:additions"/>
+            <head>A Spirituall Song of a Mayds Name called <hi>Mabell Anna Tatton,</hi> Made by a Tenant of the Lord of Canterburies, in the Counter in Wood-Streete, very uſefull and comfortable both for a Believer in particular, and the Church of Chriſt in generall, <bibl>James 5. 13. Coloſ. 3. 16.</bibl>
+            </head>
+            <lg>
+               <l>MArried thou art to Jeſus Chriſt, <note place="margin">2 Gor. 11. 2. Rev. 14. 2. Coloſ. 2. 3. John 14. 2.</note>
+               </l>
+               <l>Marked thou art to be his own,</l>
+               <l>Much treaſure i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> laid up for thee,</l>
+               <l>Mantions for thee and ſuch alone.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Abba</hi> thou maiſt thy Father call, <note place="margin">Mark. 13. 36 John 14. 16. John 10. 28, 29. John. 17. 12.</note>
+               </l>
+               <l>Abide he ever will in thee,</l>
+               <l>Able there is none that can pluck,</l>
+               <l>A member from his Magiſtie.</l>
+            </lg>
+            <lg>
+               <l>Beautifull art thou in his eyes, <note place="margin">Cant. 4. 1. Eph. 5. 27. Ezek, 16. 11. Ezek. 16. 14.</note>
+               </l>
+               <l>Behold he will no ſpot in thee,</l>
+               <l>Braſtlets are hung about thy neck,</l>
+               <l>Bedecked with his own beautie.</l>
+            </lg>
+            <lg>
+               <l>Earneſt he hath given to thee, <note place="margin">Eph. 1. 14. 2 Cor. 4. 14. 1 Theſſ. 4. 15 1 Cor. 13. 13</note>
+               </l>
+               <l>Eternall joyes for to poſſes,</l>
+               <l>Ever thou ſhalt be with thy Lord,</l>
+               <l>
+                  <hi>Emanuels</hi> love it will not ceaſe.</l>
+            </lg>
+            <lg>
+               <l>Loden tho thou be with thy ſin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, <note place="margin">Mat. 11. 18. Eſay 45. 22. 2 Tim. 4. 8. John 14. 1.</note>
+               </l>
+               <l>Looke up, live, he hath ſet thee free,</l>
+               <l>Laid up there is for thee a Crown,</l>
+               <l>Let not thy heart troubled be.</l>
+            </lg>
+            <lg>
+               <l>Angels about thee do incampe, <note place="margin">Pſal. 91. 11. Luk. 4. 10. 11 Heb, 1. 14. Luk. 18. 7.</note>
+               </l>
+               <l>Aſſiſting thee in all thy waies,</l>
+               <l>Adminiſtring good to thee,</l>
+               <l>And the elect at all aſſayes.</l>
+            </lg>
+            <lg>
+               <l>Nothing there is can ſeparate, <note place="margin">Rom. 8. 35. John 13. 1. Rom. 8. 38. Rom. 8. 39.</note>
+               </l>
+               <l>Nor allinate thee from Chriſts love,</l>
+               <l>Neither the depths that are below,</l>
+               <l>Nor yet the hights which are above.</l>
+            </lg>
+            <lg>
+               <l>None can lay ſinne unto thy charge, <note place="margin">Rom. 8. 33. Iſa. 53. 11. Mat. 7. 14. Revel. 2. 10.</note>
+               </l>
+               <l>No, Chriſt he hath thee juſtified,</l>
+               <l>Neglect not thou the narrow way,</l>
+               <l>Now thou art in the Furneſt tride.</l>
+            </lg>
+            <lg>
+               <l>A name thou haſt in a white ſtone, <note place="margin">Reve. 2. 17. 1 Cor. 2. 11. Rev. 1. 5. 1 John 2. 27</note>
+               </l>
+               <l>Alone none but thy ſelfe doth know,</l>
+               <l>All thy ſinnes they are waſht away,</l>
+               <l>Anointing it doth tell thee ſo.</l>
+            </lg>
+            <lg>
+               <l>Troubled though thou be here a while, <note place="margin">John 16. 33 Pſal. 91. 13. 1 John 5. 4. 1 Cor. 15. 57</note>
+               </l>
+               <l>Tread down thy foes thou ſhalt at laſt,</l>
+               <l>Thy faith hath got the victory,</l>
+               <l>Thy Chriſt hath all thy foes downe caſt.</l>
+            </lg>
+            <lg>
+               <l>Allthough the world doe the annoy, <note place="margin">John 6. 33. 1 Pet. 5. 8. Rom. 7. 24. Rom 6. 14.</note>
+               </l>
+               <l>And Satan he would thee devoure,</l>
+               <l>Although the fleſh would thee deſtroy,</l>
+               <l>All theſe on thee ſhall have no power.</l>
+            </lg>
+            <lg>
+               <l>Truſſe thou thy loynes with verity, <note place="margin">Epheſ. 6. 14. Jer. 23. 6. Epheſ. 6. 17. Epheſ. 6. 15.</note>
+               </l>
+               <l>Take the breaſt-plate of righteouſneſſe,</l>
+               <l>The Helmet of ſalvation,</l>
+               <l>Thy ſhooes ſhod with the Goſpels peace.</l>
+            </lg>
+            <lg>
+               <l>The Sheild of faith be ſure to take, <note place="margin">Gen. 15. 1. Epheſ. 6. 17. Epheſ. 6. 18. Heb. 2. 10.</note>
+               </l>
+               <l>The ſword which is the Spirits word,</l>
+               <l>Then watch and pray be ſure the day,</l>
+               <l>Thy Captaine he will thee afford,</l>
+            </lg>
+            <lg>
+               <l>O happy time that thou wert choſe, <note place="margin">Pſal. 144. 14 Jude 3. Rev. 3. 20. Pſal. 35. 6.</note>
+               </l>
+               <l>One for the faith here to contend,</l>
+               <l>Obtain'd there is for thee a Throne,</l>
+               <l>One which ſhall never have an end.</l>
+            </lg>
+            <lg>
+               <l>Now thou art in the battle ſtand, <note place="margin">Epheſ. 6. 11. Philip. 1<g ref="char:punc">▪</g> 28. Iſa. 54. 17. 1 Cor. 15. 57</note>
+               </l>
+               <l>Nothing let thee now terrifie,</l>
+               <l>No weapon ſhall gainſt thee prevaile,</l>
+               <l>No, thou haſt got the victory.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>William Starbuck</hi> theſe verſes made,</l>
+               <l>When in the Counter he did lie, <note place="margin">
+                     <hi>Exofficio.</hi> Zech. 8. 17.</note>
+               </l>
+               <l>Of Wood-ſtreet in the Priſon houſe,</l>
+               <l>Becauſe that Oath he did deny.</l>
+            </lg>
+            <closer>
+               <signed>W. S.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <add>Feb: 24.</add> LONDON, Printed by <hi>E. G.</hi> 1647.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
